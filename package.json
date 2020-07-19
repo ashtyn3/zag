@@ -1,0 +1,12 @@
+{
+  "name": "zag",
+  "version": "1.0.0",
+  "description": "A low level programming langauge that looks high level.",
+  "main": "index.js",
+  "author": "Storreasy LLC <amb@storreasy.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.0.22"
+  }
+}
