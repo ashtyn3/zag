@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # zag
-A all purpose programming language.
-=======
-# Zag
 
 _The low level programming langauge that looks high level._
 
@@ -11,13 +7,16 @@ _The low level programming langauge that looks high level._
 -   staticly typed
 -   uses a typescript backend
 -   simple syntax
--   everything is built off from a object
-
 ## Syntax
 
 ### Functions
 
 ```
-this.func = () {}
+var func:[NAME] = {expression}
 ```
->>>>>>> Added parser and started evaluator
+
+### Variables
+
+```
+var [TYPE]:[NAME] [= OR +=]  VALUE
+```
